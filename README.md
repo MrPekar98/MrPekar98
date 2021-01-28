@@ -3,9 +3,9 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="MrPekar98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MrPekar98&show_icons=true&hide_border=true"/>
+  <img align="center" alt="MrPekar98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MrPekar98&show_icons=true&hide_border=true&theme=dark"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="MrPekar98's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPekar98&layout=compact"/>
+  <img align="center" alt="MrPekar98's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPekar98&layout=compact&theme=dark"/>
 </a>
