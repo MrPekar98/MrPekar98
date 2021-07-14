@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/AAU_logo_2012.png" width="150" title="AAU logo">
+  <img src="https://www.scientia.com/wp-content/uploads/2018/04/Aalborg-university-logo.png" width="150" title="AAU logo">
 </p>
 
 <!--
