@@ -6,4 +6,4 @@
   Bio
 </h2>
 
-<p>PhD student in semantic data lakes at Aalborg University.</p>
+<p>Computer science PhD student in semantic data lakes at Aalborg University.</p>
