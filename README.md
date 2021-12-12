@@ -9,3 +9,4 @@
 <p>Computer science PhD student in semantic data lakes at Aalborg University.</p>
 <p>E-mail: mpch@cs.aau.dk</p>
 <p>Twitter: <a href="https://twitter.com/MartinPekarAAU">@MartinPekarAAU</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/martin-p-b70639114/">Martin Pekár</></p>
