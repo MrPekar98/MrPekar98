@@ -26,8 +26,5 @@
                 </p>
             </div>
        </div>
-       <div style="display:flex; flex-direction: row; justify-content: center">
-            <p>P.S., I should obviously never be allowed to design anything graphically.</p>
-       </div>
     </body>
 </html>
