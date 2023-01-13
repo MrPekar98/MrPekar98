@@ -11,8 +11,7 @@
                     <b>About me</b>
                 </p>
                 <p>
-                    I am a PhD student supervised by Professor Katja Hose and Assistant Professor Matteo Lissandrini. My research area is in semantic data lakes with a particular focus on scalability.
-                    My goal is to achieve a highly scalable semantic data lake that is able to retreive high-quality datasets using data discovery and exploration enabling exemplar queries.
+                    My research area is in semantic data lakes, and I aim to make content-based table search semantic aware and scalable using a knowledge graph, as well as enabling data discovery with exemplar queries.
                 </p>
                 <p>
                     <b>Contact</b>
