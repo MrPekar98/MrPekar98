@@ -19,7 +19,7 @@
                 <p>
                     E-mail: mpch@cs.aau.dk
                     <br>
-                    Twitter: <a href="https://twitter.com/MartinkoPekar">@MartinPekarAAU</a>
+                    Twitter: <a href="https://twitter.com/MartinkoPekar">@MartinkoPekar</a>
                     <br>
                     Mastodon: @MrPekar@mastodon.sdf.org
                 </p>
