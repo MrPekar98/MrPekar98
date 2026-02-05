@@ -11,7 +11,8 @@
                     <b>About me</b>
                 </p>
                 <p>
-                    My research area is in semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search utilizing a reference knowledge graph.
+                    My research area is in semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search utilizing a reference knowledge graph (KG).
+                    My research includes table-to-KG entity linking and (adaptive) (filtered) approximate nearch neighbor vector search.
                     Scalability is a substantial part of my research.
                 </p>
                 <p>
@@ -21,8 +22,6 @@
                     E-mail: mpch@cs.aau.dk
                     <br>
                     Twitter (X): <a href="https://twitter.com/MartinkoPekar">@MartinkoPekar</a>
-                    <br>
-                    Mastodon: @MrPekar@mastodon.sdf.org
                 </p>
             </div>
        </div>
